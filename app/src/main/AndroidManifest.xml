@@ -11,7 +11,7 @@
     android:supportsRtl="true"
     android:theme="@style/Theme.CuteGif"
     android:usesCleartextTraffic="false"
-    tools:targetApi="tiramisu">
+    tools:targetApi="35">
     <activity
       android:name=".ImportMvimgActivity"
       android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|screenLayout|fontScale|uiMode|orientation|density|screenSize|smallestScreenSize"
