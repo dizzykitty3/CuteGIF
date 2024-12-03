@@ -23,11 +23,11 @@ android {
   }
 
   defaultConfig {
-    applicationId "me.tasy5kg.cutegif.fork20241017"
+    applicationId "me.tasy5kg.cutegif.fork"
     minSdk 29
     targetSdk 35
     compileSdk 35
-    versionCode 20241017
+    versionCode 20241203
     versionName '2024.10'
     signingConfig signingConfigs.debug
     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
